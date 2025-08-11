@@ -1,4 +1,4 @@
-# 📚 Learning Projects — Full Stack PERN
+# 📚 Learning Projects: Full Stack PERN
 
 Welcome to **Learning Projects**, a growing collection of hands-on projects built while learning the **PERN Stack** (PostgreSQL, Express.js, React, Node.js).  
 From small utilities ⚙️ to full-stack applications 🖥️, each project explores new concepts and strengthens skills for becoming a full-stack developer.
